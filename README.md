@@ -1,3 +1,5 @@
+Keywords: JavaScript, Game, Async
+
 📝 Task Objective: TicTacToe - Main (5b.)
 
 Create a classic implementation of the TicTacToe game with a 3x3 grid.
